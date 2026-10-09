@@ -1,0 +1,1 @@
+This project analyzes IPL 2022 match data using Python. It explores team performance, toss decisions, player statistics, match-winning margins, and stadium-wise match distribution using data analysis and visualization.
